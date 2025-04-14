@@ -26,6 +26,7 @@ automated tool for sending bulk reports to instagram IDs, fast mass report bot a
 # instagram reporter
 instagram report gigs are always available
 # instagram mass reporting bot
+instagram mass reporting bot
 # instagram ban
 # instagram report sender
 # instaban
