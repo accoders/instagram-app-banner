@@ -28,5 +28,6 @@ instagram report gigs are always available
 # instagram mass reporting bot
 instagram mass reporting bot
 # instagram ban
+instagram bulk reporting bot
 # instagram report sender
 # instaban
