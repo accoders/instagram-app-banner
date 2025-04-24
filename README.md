@@ -1,6 +1,6 @@
 # instagram-app-banner
 
-A powerful tool for reporting instagram accounts.
+A powerful tool for reporting instagram accounts with mass reporting methods
 
 developer: https://t.me/instareport_tool
 
