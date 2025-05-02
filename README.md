@@ -32,3 +32,4 @@ instagram bulk reporting bot
 # instagram report sender
 instagram bulk report tool
 # insta ban tool
+mass reporting instagram accounts
