@@ -30,7 +30,7 @@ instagram mass reporting bot
 # instagram ban
 instagram bulk reporting bot
 # instagram report sender
-instagram bulk report tool
+# instagram bulk report tool
 # insta ban tool
 mass reporting instagram accounts
 # instagram ban bot
