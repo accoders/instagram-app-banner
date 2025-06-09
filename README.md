@@ -37,3 +37,4 @@ mass reporting instagram accounts
 instagram report software
 # instagram ban app
 instagram mass report
+instagram ban tool
