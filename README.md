@@ -40,3 +40,4 @@ mass reporting instagram accounts
 # instagram ban tool
 # instagram mass report
 # instagram report tool
+# instagram reporter
