@@ -46,3 +46,4 @@ mass reporting instagram accounts
 # insta banner
 # ig banner
 # instagram report banner
+# instagram reporter bot
