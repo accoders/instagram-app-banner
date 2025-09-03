@@ -32,7 +32,7 @@ instagram report gigs are always available
 # instagram report sender
 # instagram bulk report tool
 # insta ban tool
-mass reporting instagram accounts
+# mass reporting instagram accounts
 # instagram ban bot
 # instagram report software
 # instagram ban app
