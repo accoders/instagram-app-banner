@@ -52,3 +52,4 @@ instagram report gigs are always available
 # instagram banner
 # instagram ban
 # instagram report tool
+# instagram ban reporter
