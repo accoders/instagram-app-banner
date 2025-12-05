@@ -2,24 +2,23 @@
 
 A powerful tool for reporting instagram accounts with mass reporting methods
 
-developer: https://t.me/instareport_tool
+developer: https://t.me/redsecure
 
-![ig](https://github.com/user-attachments/assets/61f35f12-e892-429f-9fb7-d5138defa0f2)
-
+<img width="497" height="365" alt="igrp" src="https://github.com/user-attachments/assets/cc25b880-3556-41bc-a8d8-b08458d2fbab" />
 
 # STEPS TO FOLLOW
 - generate up to 100 sessions
 
 - generate proxies, in json format
   
-developer: https://t.me/instareport_tool
+developer: https://t.me/redsecure
 
 # USAGE
 - there is the windows version and mac os version
 
 for further guide:
 
-contact developer: https://t.me/instareport_tool
+contact developer: https://t.me/redsecure
 
 automated tool for sending bulk reports to instagram IDs, fast mass report bot and take downs
 
